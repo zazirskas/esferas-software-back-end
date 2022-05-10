@@ -1,0 +1,19 @@
+{
+  "name": "teste-tecnico-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zazirskas/esferas-software-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zazirskas/esferas-software-back-end/issues"
+  },
+  "homepage": "https://github.com/zazirskas/esferas-software-back-end#readme"
+}
